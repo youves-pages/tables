@@ -1,0 +1,8 @@
+#,Token,Collateral,Type,Is Deployed,Zero Minting Fees until
+1,uUSD,USDT,New,yes,n/a
+2,uUSD,XTZ/tez,Migration,yes,14 October 2022
+3,uUSD,SIRS,Migration,yes,27 October 2022
+4,uUSD,tzBTC,Migration,yes,11 October 2022
+5,uBTC,XTZ/tez,Migration,yes,11 October 2022
+6,uBTC,SIRS,Migration,yes,27 October 2022
+7,uBTC,tzBTC,New,Not yet,n/a
